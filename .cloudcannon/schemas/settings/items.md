@@ -8,5 +8,3 @@ items:
     url: "#"
   - text: Blog
     url: "/blog"
-
-_schema: items
